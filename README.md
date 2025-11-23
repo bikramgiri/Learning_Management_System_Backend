@@ -35,51 +35,51 @@ Design the system so new features (quizzes, certificates, progress tracking, etc
 ## ✨ Features of the Learning Management System (LMS)
 
 1. User Authentication & Authorization
-Secure session-based authentication system.
-Google Login integration for fast and convenient sign-in.
-Role-based access for Admin and Users with protected routes.
+- Secure session-based authentication system.
+- Google Login integration for fast and convenient sign-in.
+- Role-based access for Admin and Users with protected routes.
 
 2. Course Management (Admin Panel)
-Manage users, courses, materials, and categories.
-Create, update, and delete courses.
-Upload course thumbnails, duration, price, descriptions, video/material files.
-Organize courses by category for easier discovery.
-Manage enrolled users and course access.
+- Manage users, courses, materials, and categories.
+- Create, update, and delete courses.
+- Upload course thumbnails, duration, price, descriptions, video/material files.
+- Organize courses by category for easier discovery.
+- Manage enrolled users and course access.
 
 3. Course Browsing & Enrollment (User Panel)
 - Explore courses by category, and course name.
 - View detailed course information like description, duration, and price.
-Enroll in available courses with one click.
-Manage personal profile and settings.
+- Enroll in available courses with one click.
+- Manage personal profile and settings.
 
 4. Online Payment Integration (Khalti Payment)
-Khalti Payment Gateway integrated for secure and instant online payments.
-Users can purchase paid courses through Khalti easily.
-Automatic verification of payment status before enrollment.
+- Khalti Payment Gateway integrated for secure and instant online payments.
+- Users can purchase paid courses through Khalti easily.
+- Automatic verification of payment status before enrollment.
 
 5. Responsive and Modern UI
-Clean, mobile-friendly interface using Tailwind CSS.
-Consistent, reusable React components for a seamless experience.
+- Clean, mobile-friendly interface using Tailwind CSS.
+- Consistent, reusable React components for a seamless experience.
 
 6. State Management
-Centralized and optimized state handling using Redux Toolkit.
-Predictable updates for authentication, courses, and user data.
+- Centralized and optimized state handling using Redux Toolkit.
+- Predictable updates for authentication, courses, and user data.
 
 7. Optimized Performance
-Next.js SSR for faster load times and enhanced SEO.
-API routes for efficient and secure backend operations.
+- Next.js SSR for faster load times and enhanced SEO.
+- API routes for efficient and secure backend operations.
 
 8. Secure Data Handling
-Data stored securely using MongoDB.
-Server-side validation to maintain data integrity.
+- Data stored securely using MongoDB.
+- Server-side validation to maintain data integrity.
 
 9. Google Login Integration
-Login using Google for faster, one-click authentication.
-Improved user onboarding experience.
-Secure OAuth 2.0-based authorization.
+- Login using Google for faster, one-click authentication.
+- Improved user onboarding experience.
+- Secure OAuth 2.0-based authorization.
 
 10. Scalable Architecture
-Designed for easy expansion with future features like quizzes, certificates, progress tracking, messaging, and analytics.
+- Designed for easy expansion with future features like quizzes, certificates, progress tracking, messaging, and analytics.
 
 ## 🛠️ Technologies Used:
 
